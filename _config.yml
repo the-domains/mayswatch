@@ -1,0 +1,28 @@
+name: MaysWatch
+favicon: null
+layout_spectrum: 0.25277562136761844
+typography_spectrum: 0.9227700168266892
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6641330083366483
+  lightness: 0.7866515358909965
+  saturation: 0.39124421845190227
+  rhythmicContrast: 0.2629129693377763
+purpose: []
